@@ -1,8 +1,4 @@
-# Mirumee Labs
-
-We develop API-first software and scalable architectures for the most demanding markets.
-
-## **Welcome to the Mirumee Labs**
+# **Welcome to the Mirumee Labs**
 
 We are an **Agent-Native Engineering Lab** solving complex challenges in **Commerce** and **MedTech**. We blend years of expertise with AI-driven acceleration to build scalable and compliant systems.
 
@@ -10,7 +6,7 @@ We are an **Agent-Native Engineering Lab** solving complex challenges in **Comme
 
 We love **Python**, **GraphQL**, **TypeScript**, modern frontend frameworks, and doing things the right way.
 
-### **💛 Our Values**
+## **💛 Our Values**
 
 * **Sustainable Open Source** – We build with the long term in mind. Our tools are actively maintained, used in production by global brands, and designed for teams that need reliability, not experiments.  
 * **Engineering as the Backbone** – Whether scaling to millions of users or orchestrating complex MedTech architectures, we prioritize performance, security, and scalability from day one.  
